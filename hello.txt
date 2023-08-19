@@ -12,5 +12,5 @@ hello atqiao!hello git!
 hello atqiao!hello git!
 hello atqiao!hello git!
 hello atqiao!hello git!
-hello atqiao!hello git!
+hello atqiao!hello git! hot-fix test
 hello atqiao!hello git!
